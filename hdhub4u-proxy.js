@@ -9,7 +9,7 @@
 
 var hdhub4u_exports = {};
 
-var WORKER_URL = "https://hdhub4u.leokimpese.workers.dev";
+var WORKER_URL = "https://cfsper-production.up.railway.app";
 
 function getStreams(tmdbId, mediaType, season, episode) {
   return new Promise(function (resolve) {
