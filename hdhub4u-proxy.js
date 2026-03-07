@@ -9,7 +9,7 @@
 
 var hdhub4u_exports = {};
 
-var WORKER_URL = "https://hdhub4u.YOUR-SUBDOMAIN.workers.dev";
+var WORKER_URL = "https://hdhub4u.leokimpese.workers.dev";
 
 function getStreams(tmdbId, mediaType, season, episode) {
   return new Promise(function (resolve) {
